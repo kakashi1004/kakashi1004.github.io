@@ -1,0 +1,25 @@
+h1{
+	font-family: times;
+	font-size:40pt;
+	font-color: solid blue;
+	text-align:top center;
+    
+}
+p{
+	font-family:Verdana;
+	font-size:25pt;
+	font-color:solid black;
+	text-align:left;
+    
+
+}
+h3{
+	text-decoration: unset;
+    color:solid blue;
+
+}
+
+img{
+	height: 200px;
+	width: 300px;
+}
